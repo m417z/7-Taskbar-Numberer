@@ -1,0 +1,4 @@
+LIBRARY "inject.dll"
+EXPORTS
+	Init @1
+	Exit @2
